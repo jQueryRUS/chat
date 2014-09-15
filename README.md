@@ -13,6 +13,8 @@
 [jsToolBox](http://www.jstoolbox.com/)
 
 ## Форумы
+[Русскоязычная рассылка по jQuery](https://groups.google.com/forum/#!forum/jquery-russian)
+[Группа ВКонтакте](http://vk.com/jquerygroup)
 
 ## Книги
 
